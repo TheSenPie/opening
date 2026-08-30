@@ -1,0 +1,3 @@
+[submodule "nicegraf"]
+	path = nicegraf
+	url = git@github.com:nicebyte/nicegraf.git
